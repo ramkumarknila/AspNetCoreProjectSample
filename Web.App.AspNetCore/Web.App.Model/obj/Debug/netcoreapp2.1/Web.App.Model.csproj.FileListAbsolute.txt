@@ -1,0 +1,9 @@
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\bin\Debug\netcoreapp2.1\Web.App.Model.deps.json
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\bin\Debug\netcoreapp2.1\Web.App.Model.dll
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\bin\Debug\netcoreapp2.1\Web.App.Model.pdb
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\obj\Debug\netcoreapp2.1\Web.App.Model.csprojAssemblyReference.cache
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\obj\Debug\netcoreapp2.1\Web.App.Model.csproj.CoreCompileInputs.cache
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\obj\Debug\netcoreapp2.1\Web.App.Model.AssemblyInfoInputs.cache
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\obj\Debug\netcoreapp2.1\Web.App.Model.AssemblyInfo.cs
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\obj\Debug\netcoreapp2.1\Web.App.Model.dll
+G:\Ramkumar\Web.App.AspNetCore\Web.App.Model\obj\Debug\netcoreapp2.1\Web.App.Model.pdb

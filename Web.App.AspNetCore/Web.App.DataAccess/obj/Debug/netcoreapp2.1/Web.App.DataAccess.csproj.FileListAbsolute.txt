@@ -1,0 +1,14 @@
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\bin\Debug\netcoreapp2.1\Web.App.DataAccess.deps.json
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\bin\Debug\netcoreapp2.1\Web.App.DataAccess.dll
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\bin\Debug\netcoreapp2.1\Web.App.DataAccess.pdb
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\bin\Debug\netcoreapp2.1\Web.App.Data.dll
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\bin\Debug\netcoreapp2.1\Web.App.Model.dll
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\bin\Debug\netcoreapp2.1\Web.App.Data.pdb
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\bin\Debug\netcoreapp2.1\Web.App.Model.pdb
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\obj\Debug\netcoreapp2.1\Web.App.DataAccess.csprojAssemblyReference.cache
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\obj\Debug\netcoreapp2.1\Web.App.DataAccess.csproj.CoreCompileInputs.cache
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\obj\Debug\netcoreapp2.1\Web.App.DataAccess.AssemblyInfoInputs.cache
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\obj\Debug\netcoreapp2.1\Web.App.DataAccess.AssemblyInfo.cs
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\obj\Debug\netcoreapp2.1\Web.App.DataAccess.csproj.CopyComplete
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\obj\Debug\netcoreapp2.1\Web.App.DataAccess.dll
+G:\Ramkumar\Web.App.AspNetCore\Web.App.DataAccess\obj\Debug\netcoreapp2.1\Web.App.DataAccess.pdb
